@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Ruby
+- 👀 I’m interested in Web/Software Development
+- 🌱 I’m currently learning Native Javascript to get good learning base
+- 💞️ I’m looking to collaborate on nothing atm <3
+- 📫 How to reach me email me at rubymedlock.dev@gmail.com
+- 😄 Pronouns: She/Her
